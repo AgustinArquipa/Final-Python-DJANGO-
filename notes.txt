@@ -1,0 +1,3 @@
+Usuario y Contraseña Admin para portfolio_django
+arquito
+juanarquipa90
